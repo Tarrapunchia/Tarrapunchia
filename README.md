@@ -1,4 +1,4 @@
-# Hello, I'm Tarrapunchia! 👋
+# Hello, I'm Fabio Zucconi! 👋
 
 I'm a passionate developer with a strong focus on low-level programming and microcontrollers. I primarily work with **C** and **C++**, but I also have a solid understanding of **Python**, **Java**, and **JavaScript**. My work spans various areas of software development, but I’m especially drawn to projects that involve deep hardware interaction.
 
